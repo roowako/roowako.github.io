@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 w h" enable-background="new 0 0 24.359 24.5" xml:space="preserve">
+	 <style type="text/css">
+		 <![CDATA[
+			 g path {
+			-moz-transition: fill 250ms ease-in-out 0ms;
+			-webkit-transition: fill 250ms ease-in-out 0ms;
+			-o-transition: fill 250ms ease-in-out 0ms;
+			transition: fill 250ms ease-in-out 0ms;
+		}
+				
+		g:hover path {
+			fill: #5b82ab;
+		}
+		g:hover circle{
+			fill:#fff;
+		}
+		]]>
+	</style>
+	<g>
+		<a xlink:href="#">
+			<circle fill="#fff" cx="12.18" cy="12.25" r="9.718"/>
+			<path fill="#da5c4f" d="M12.16,0.637c-6.479,0-11.729,5.252-11.729,11.729c0,6.477,5.251,11.727,11.729,11.727
+				c6.478,0,11.729-5.25,11.729-11.727C23.89,5.889,18.638,0.637,12.16,0.637z M15.265,12.317h-2.031c0,3.246,0,7.244,0,7.244h-3.01
+				c0,0,0-3.957,0-7.244H8.792V9.76h1.432V8.102c0-1.186,0.563-3.036,3.037-3.036l2.229,0.009v2.484c0,0-1.354,0-1.617,0
+				c-0.265,0-0.639,0.131-0.639,0.695V9.76h2.294L15.265,12.317z"/>
+		</a>
+	</g>
+</svg>
