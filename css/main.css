@@ -162,3 +162,11 @@ body{
 
 	padding-top: 50px;
 }
+
+.con{
+	position: relative;
+	left: 500px;
+	top: 200px;
+	font-size: 30px;
+	color: #333;
+}
