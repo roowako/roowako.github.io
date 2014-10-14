@@ -143,6 +143,9 @@ nav#primary h1 {
 	font-size:1.50vw;
 }
 
+.content article p em{
+	color: #21A97E;
+}
 #about-me,#skills,
 		#works,#contact{
 	padding-top: 150px;
@@ -173,9 +176,11 @@ nav#primary h1 {
 	font-weight: normal;
 	line-height: 65px;
 	
+	color: #fff;
+}
+.content h1 em{
 	color: #21A97E;
 }
-
 
 
 #parallax-bg3 {
