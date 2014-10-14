@@ -60,7 +60,7 @@ html {
 	overflow-y: scroll; /* always force a scrollbar in non-IE */
 	}
 body{ 
-	background: #e3e5e5; 
+	background: #1d1d1d; 
 	height: 4550px;
 	line-height: 1.5;
 	overflow-x: hidden;
@@ -138,7 +138,7 @@ nav#primary h1 {
 }
 
 .content article p{
-	color:#da532c;
+	color:#fff;
 	font-family: Georgia,sans-serif;
 	font-size:1.50vw;
 }
@@ -189,8 +189,9 @@ nav#primary h1 {
 	/* balloon */
 	#bg3-1 {
 		position: absolute;
-		top: -111px;
-		left: 355px;
+		top: 100px;
+		left: 555px;
+		
 		}
 	#bg3-2 {
 		position: absolute;
